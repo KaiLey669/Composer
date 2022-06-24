@@ -1,0 +1,5 @@
+[2022-06-24T05:24:40.386777+00:00] name.ERROR: Incorrect password [] []
+[2022-06-24T05:24:44.834371+00:00] name.ERROR: Incorrect password [] []
+[2022-06-24T05:25:10.748675+00:00] name.INFO: Send message {"user":"admin","message":"try"} []
+[2022-06-24T05:28:00.932689+00:00] name.INFO: Send message {"user":"admin","message":"try"} []
+[2022-06-24T05:28:15.495564+00:00] name.INFO: Send message {"user":"admin","message":"one more mess"} []
